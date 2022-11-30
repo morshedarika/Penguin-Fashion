@@ -1,0 +1,39 @@
+.container-fluid img{
+    width: 320px;
+    margin-right: 500px;
+}
+.categories img {
+    width: 306px;
+    margin-left: auto;
+    height: 281px;
+    margin-right: auto;
+    padding: 28px;
+    background-color: gainsboro;
+    border-radius: 10px;
+}
+.sizetheimg img{
+    width: 80px;
+    margin-left: 55px;
+}
+.center img{
+    width: 600px;
+}
+.Penguin{
+    color: #f8b63c;
+}
+.btn-clr{
+    color: #ffffff;
+    background-color:  #a4bc46;
+    border: none;
+    font-size: 15px;
+    padding: 10px;
+    border-radius: 5px;
+    
+}
+.categories h3{
+    color: #f8b63c;
+}
+.girl-Jacket img{
+    width: 700px;
+    margin-left: 200px;
+}
